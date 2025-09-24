@@ -1,0 +1,30 @@
+1. Morphing Icons
+Example: hamburger → close (☰ → ✕)
+The paths smoothly morph into each other.
+You can use pathData animations in the animator XML.
+Great for menu buttons.
+
+2. Progress to Success Animation
+Circle → animates as a progress spinner.
+When done, morphs into a checkmark inside the circle.
+Combines rotation, trim paths, and morphing.
+
+3. Lottie-Style Micro Animations
+Heart button ❤️ → tap → explodes into particles → shrinks back.
+Doable by combining scale + alpha on groups.
+Can layer multiple paths for the “explosion”.
+
+4. Download to Complete
+Arrow pointing down → animates into a progress bar → bar fills up → transforms into a checkmark.
+Multi-stage state animation with different animators in sequence.
+
+5. Face Expressions
+A simple smiley face:
+Eyes blink with trimPath
+Mouth morphs from neutral → smile → wink
+Could be triggered by states (happy, thinking, done).
+
+6. Music Equalizer Bars
+Animated vertical bars with infinite loop scale animations.
+Different durations + interpolators per bar to look natural.
+Can tie it to audio later.

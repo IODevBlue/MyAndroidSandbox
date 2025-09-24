@@ -1,0 +1,11 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_menu_morph">
+
+    <target android:name="top_group" android:animation="@animator/top_rotate" />
+    <target android:name="top_group" android:animation="@animator/top_translate" />
+
+    <target android:name="bottom_group" android:animation="@animator/bottom_rotate" />
+    <target android:name="bottom_group" android:animation="@animator/bottom_translate" />
+
+    <target android:name="middle_path" android:animation="@animator/middle_trim" />
+</animated-vector>
