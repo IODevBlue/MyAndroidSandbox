@@ -2,4 +2,5 @@
 <resources>
 
     <style name="Theme.MyAndroidSandBox" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.MyAndroidSandBox.AppCompat" parent="Theme.AppCompat.Light.NoActionBar" />
 </resources>
