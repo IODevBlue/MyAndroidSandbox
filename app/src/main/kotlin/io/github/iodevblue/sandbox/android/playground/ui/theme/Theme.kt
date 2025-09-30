@@ -49,7 +49,7 @@ fun MyAndroidSandBoxTheme(
         else -> LightColorScheme
     }
 
-    MaterialTheme(
+    MaterialTheme (
         colorScheme = colorScheme,
         typography = Typography,
         content = content
