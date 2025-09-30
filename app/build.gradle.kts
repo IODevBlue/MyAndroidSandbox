@@ -18,6 +18,23 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    flavorDimensions += "device"
+
+    productFlavors {
+        create("phone") {
+            dimension = "device"
+        }
+        create("tv") {
+            dimension = "device"
+        }
+        create("autos") {
+            dimension = "device"
+        }
+        create("wear") {
+            dimension = "device"
+        }
+    }
+
     buildTypes {
         release {
             isMinifyEnabled = false
@@ -58,9 +75,22 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-    implementation(libs.designcolors)
-    implementation(libs.glance.appwidget)
+    implementation(libs.iodevblue.designcolors)
+    implementation(libs.androidx.glance.appwidget)
     implementation(libs.rive)
     implementation(libs.androidx.startup.runtime)
+    implementation(libs.androidx.car.app)
+    implementation(libs.androidx.compose.material.icons.core)
+    implementation(libs.androidx.lifecycle.viewmodel.compose)
+    implementation(libs.androidx.compose.runtime.livedata)
+    implementation(libs.androidx.compose.runtime.rxjava2)
+    implementation(libs.androidx.compose.runtime.rxjava3)
+    implementation(libs.androidx.compose.ui.viewbinding)
+    implementation(libs.androidx.navigation.compose)
+
+
+
+
+
 
 }
