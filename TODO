@@ -1,9 +1,0 @@
-- Jetpack compose
-    [ ] Compose material icons
-    [ ] Materials3 window class
-    [ ] Compose with LiveData
-    [ ] Compose with RxJava2
-    [ ] Compose with RxJava3
-    [ ] Compose with RxKotlin (if any exist)
-    [ ] Compose with View binding
-    [ ] Compose navigation with safeargs.

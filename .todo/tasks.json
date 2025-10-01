@@ -1,0 +1,314 @@
+[
+  {
+    "id": "TASK_1",
+    "priority": "LOW",
+    "tags": [
+      "Jetpack Compose"
+    ],
+    "title": "Compose material icons",
+    "description": "",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 12,
+        "second": 21,
+        "nano": 781576000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_4",
+    "priority": "LOW",
+    "tags": [
+      "Jetpack Compose"
+    ],
+    "title": "Materials3 window class",
+    "description": "",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 13,
+        "second": 11,
+        "nano": 85788000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_7",
+    "priority": "LOW",
+    "tags": [
+      "Jetpack Compose"
+    ],
+    "title": "Compose with LiveData",
+    "description": "",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 13,
+        "second": 17,
+        "nano": 944413000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_11",
+    "priority": "LOW",
+    "tags": [
+      "Jetpack Compose"
+    ],
+    "title": "Compose with RxJava2",
+    "description": "",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 13,
+        "second": 23,
+        "nano": 394350000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_16",
+    "priority": "LOW",
+    "tags": [
+      "Jetpack Compose"
+    ],
+    "title": "Compose with RxJava3",
+    "description": "",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 13,
+        "second": 28,
+        "nano": 576546000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_22",
+    "priority": "LOW",
+    "tags": [
+      "Jetpack Compose"
+    ],
+    "title": "Compose with RxKotlin (if any exist)",
+    "description": "",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 13,
+        "second": 34,
+        "nano": 469098000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_29",
+    "priority": "LOW",
+    "tags": [
+      "Jetpack Compose"
+    ],
+    "title": "Compose with View binding",
+    "description": "",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 13,
+        "second": 41,
+        "nano": 562139000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_37",
+    "priority": "LOW",
+    "tags": [
+      "Jetpack Compose"
+    ],
+    "title": "Compose navigation with safeargs.",
+    "description": "",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 13,
+        "second": 47,
+        "nano": 310636000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_142",
+    "priority": "LOW",
+    "tags": [
+      "Animated Vectors"
+    ],
+    "title": "Morphing Icons",
+    "description": "Example: hamburger → close (☰ → ✕)\nThe paths smoothly morph into each other.\nYou can use pathData animations in the animator XML.\nGreat for menu buttons.",
+    "status": "IN_PROGRESS",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 32,
+        "second": 54,
+        "nano": 822530000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_170",
+    "priority": "LOW",
+    "tags": [
+      "Animated Vectors"
+    ],
+    "title": "Progress to Success Animation",
+    "description": "Circle → animates as a progress spinner.\nWhen done, morphs into a checkmark inside the circle.\nCombines rotation, trim paths, and morphing.\n",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 33,
+        "second": 54,
+        "nano": 707819000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_191",
+    "priority": "LOW",
+    "tags": [
+      "Animated Vectors"
+    ],
+    "title": "Lottie-Style Micro Animations",
+    "description": "Heart button ❤️ → tap → explodes into particles → shrinks back.\nDoable by combining scale + alpha on groups.\nCan layer multiple paths for the “explosion”.",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 34,
+        "second": 14,
+        "nano": 948326000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_214",
+    "priority": "LOW",
+    "tags": [
+      "Animated Vectors"
+    ],
+    "title": "Download to Complete",
+    "description": "Arrow pointing down → animates into a progress bar → bar fills up → transforms into a checkmark.\nMulti-stage state animation with different animators in sequence.",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 34,
+        "second": 36,
+        "nano": 518321000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_239",
+    "priority": "LOW",
+    "tags": [
+      "Animated Vectors"
+    ],
+    "title": "Face Expressions",
+    "description": "A simple smiley face:\nEyes blink with trimPath\nMouth morphs from neutral → smile → wink\nCould be triggered by states (happy, thinking, done).",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 7,
+        "minute": 34,
+        "second": 53,
+        "nano": 59515000
+      }
+    },
+    "isImported": false
+  }
+]
